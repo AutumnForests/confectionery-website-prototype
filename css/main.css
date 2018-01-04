@@ -47,6 +47,7 @@ nav {
 
 ul {
   padding: 0;
+  line-height: 2;
 }
 
 nav ul {
@@ -111,6 +112,7 @@ a {
 
 time {
   text-align: center;
+  font-family: 'Varela Round', sans-serif;
 }
 
 .hours-img {
@@ -125,10 +127,30 @@ time {
 
 .events {
   text-align: center;
+  clear: both;
+}
+
+.event-box {
+  position: relative;
+}
+
+.event-text {
+    background-color: rgba(0, 0, 0, .3);
+    width: 55%;
+    position: absolute;
+    right: 0;
+    top: 7.9em;
+    border-radius: 8px;
+  }
+
+.event-ban {
+  position: relative;
 }
 
 .event-info {
   font-family: 'Varela Round', sans-serif;
+  background-color: rgba(0, 0, 0, .3);
+  position: absolute;
 }
 
 .open-house {
