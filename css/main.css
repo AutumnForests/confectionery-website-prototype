@@ -110,11 +110,6 @@ a {
   clear: both;
 }
 
-time {
-  text-align: center;
-  font-family: 'Varela Round', sans-serif;
-}
-
 .hours-img {
   width: 30%;
   float: left;
