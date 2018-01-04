@@ -34,7 +34,7 @@ header {
 }
 
 header h1 {
-  font-family: "Pacifico", cursive;
+  font-family: Pacifico, cursive;
   background-color: #9e6738;
   color: #2d1d0f;
   text-align: center;
@@ -92,12 +92,12 @@ nav li:hover {
 }
 
 h2 {
-  font-family: 'Berkshire Swash', cursive;
+  font-family: "Berkshire Swash", cursive;
   background-color: #9e6738;
 }
 
 h3 {
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
   text-align: center;
   background-color: #c68044;
   clear: both;
@@ -128,20 +128,20 @@ h3 {
 }
 
 .event-text {
-    background-color: rgba(0, 0, 0, .3);
-    width: 55%;
-    position: absolute;
-    right: 0;
-    top: 7.9em;
-    border-radius: 8px;
-  }
+  background-color: rgba(0, 0, 0, .3);
+  width: 55%;
+  position: absolute;
+  right: 0;
+  top: 7.9em;
+  border-radius: 8px;
+}
 
 .event-ban {
   position: relative;
 }
 
 .event-info {
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
   background-color: rgba(0, 0, 0, .3);
   position: absolute;
 }
