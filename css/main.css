@@ -10,8 +10,160 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
+  background-color: #ddb492;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+header img {
+  width: 40px;
+}
+
+.circle-left {
+  float: left;
+}
+
+.circle-right {
+  float: right;
+}
+
+header {
+  border: 3px dotted #2d1d0f;
+}
+
+header h1 {
+  font-family: 'Pacifico', cursive;
+  background-color: #9e6738;
+  color: #2d1d0f;
+  text-align: center;
+  margin: 0;
+}
+
+nav {
+  background-color: #9e6738;
+}
+
+ul {
+  padding: 0;
+}
+
+nav ul {
+  margin: 0;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #2d1d0f;
+  font-family: 'Varela Round', sans-serif;
+}
+
+nav li {
+  margin: .3em;
+  border-radius: 4px;
+  padding: 1rem;
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  margin: 10px;
+  text-align: center;
+  background-color: #c68044;
+}
+
+nav li:hover {
+  background-color: #e6a76a;
+}
+
+.img-flex {
+  width: 100%;
+  display: block;
+}
+
+.selection {
+  width: 30%;
+  float: right;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Berkshire Swash', cursive;
+  background-color: #9e6738;
+}
+
+h3 {
+  font-family: 'Patua One', cursive;
+  text-align: center;
+  background-color: #c68044;
+  clear: both;
+}
+
+a {
+  font-family: 'Varela Round', sans-serif;
+  list-style: none;
+}
+
+.hours {
+  text-align: center;
+  clear: both;
+}
+
+time {
+  text-align: center;
+}
+
+.hours-img {
+  width: 30%;
+  float: left;
+  margin: 1.5rem;
+}
+
+.hours-list {
+  padding: 0;
+}
+
+.events {
+  text-align: center;
+}
+
+.event-info {
+  font-family: 'Varela Round', sans-serif;
+}
+
+.open-house {
+  width: 80%;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contact-info {
+  float: right;
+  list-style-type: none;
+  display: inline-block;
+  width: 55%;
+  padding: 0;
+}
+
+.contact-img {
+  width: 40%;
+  display: inline-block;
+}
+
+@media only screen and (min-width: 25em) {
+
+}
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 60em) {
+
+}
+
+@media only screen and (min-width: 90em) {
+
 }
