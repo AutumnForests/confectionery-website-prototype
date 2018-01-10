@@ -183,7 +183,7 @@ h3 {
 
 html {
   background-color: #ddb492;
-  font-size: 3;
+  font-size: 100%;
   line-height: normal;
 }
 
@@ -206,7 +206,7 @@ nav li {
 
   html {
     background-color: #ddb492;
-    font-size: 3;
+    font-size: 100%;
     line-height: normal;
   }
 
@@ -236,7 +236,7 @@ nav li {
 
   html {
     background-color: #ddb492;
-    font-size: 3;
+    font-size: 100%;
     line-height: normal;
   }
 
@@ -300,7 +300,7 @@ nav li {
 
   html {
     background-color: #ddb492;
-    font-size: 3;
+    font-size: 100%;
     line-height: normal;
   }
 
