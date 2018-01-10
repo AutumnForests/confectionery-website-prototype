@@ -95,7 +95,6 @@ nav li:hover {
 h2 {
   font-family: "Berkshire Swash", cursive;
   background-color: #9e6738;
-  display:
 }
 
 h3 {
@@ -182,6 +181,12 @@ h3 {
 
 @media only screen and (min-width: 25em) {
 
+html {
+  background-color: #ddb492;
+  font-size: 3;
+  line-height: normal;
+}
+
 nav li {
   margin: 0;
   padding: .5rem 1rem;
@@ -195,7 +200,15 @@ nav li {
   top: 11.3em;
 }
 
+}
+
 @media only screen and (min-width: 38em) {
+
+  html {
+    background-color: #ddb492;
+    font-size: 3;
+    line-height: normal;
+  }
 
   nav li {
     margin: .3em;
@@ -211,7 +224,7 @@ nav li {
     font-size: 1.4375rem;
   }
 
-  .hours-list{
+  .hours-list {
     font-size: 1.5625rem;
     margin: 2.5rem;
     float: right;
@@ -220,6 +233,12 @@ nav li {
 }
 
 @media only screen and (min-width: 60em) {
+
+  html {
+    background-color: #ddb492;
+    font-size: 3;
+    line-height: normal;
+  }
 
    header h1 {
      font-size: 3.125rem;
@@ -278,6 +297,12 @@ nav li {
 }
 
 @media only screen and (min-width: 90em) {
+
+  html {
+    background-color: #ddb492;
+    font-size: 3;
+    line-height: normal;
+  }
 
   header h1 {
     font-size: 4.375rem;
