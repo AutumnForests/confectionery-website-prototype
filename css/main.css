@@ -203,17 +203,17 @@ nav li {
   }
 
   .event-text {
-    font-size: 25px;
+    font-size: 1.5625rem;
     top: 11.1em;
   }
 
   .contact-info {
-    font-size: 23px;
+    font-size: 1.4375rem;
   }
 
   .hours-list{
-    font-size: 25px;
-    margin: 40px;
+    font-size: 1.5625rem;
+    margin: 2.5rem;
     float: right;
   }
 
@@ -222,57 +222,57 @@ nav li {
 @media only screen and (min-width: 60em) {
 
    header h1 {
-     font-size: 50px;
+     font-size: 3.125rem;
    }
 
    header img {
-     width: 80px;
+     width: 5rem;
    }
 
    figure i {
-     font-size: 40px;
+     font-size: 2.5rem;
    }
 
    h2 {
-     font-size: 36px
+     font-size: 2.25rem;
    }
 
    h3 {
-     font-size: 30px;
+     font-size: 1.875rem;
    }
 
    nav li {
-     font-size: 25px
+     font-size: 1.5625rem;
    }
 
    main li {
-     font-size: 25px;
+     font-size: 1.5625rem;
    }
 
    main i {
-     font-size: 22px;
+     font-size: 1.375rem;
    }
 
    .item-des {
-     font-size: 22px;
+     font-size: 1.375rem;
    }
 
     .hours-list {
-      font-size: 40px;
+      font-size: 2.5rem;
       float: right;
     }
 
     .event-text {
-      font-size: 40px;
+      font-size: 2.5rem;
       top: 11.1em;
     }
 
     .contact-info {
-      font-size: 35px;
+      font-size: 2.1875rem;
     }
 
     .footer {
-      font-size: 20px;
+      font-size: 1.25rem;
     }
 
 }
@@ -280,56 +280,56 @@ nav li {
 @media only screen and (min-width: 90em) {
 
   header h1 {
-    font-size: 70px;
+    font-size: 4.375rem;
   }
 
   header img {
-    width: 100px;
+    width: 6.25rem;
   }
 
   .banner-i {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
 
   h2 {
-    font-size: 50px
+    font-size: 3.125rem;
   }
 
   h3 {
-    font-size: 40px;
+    font-size: 2.5rem;
   }
 
   nav li {
-    font-size: 35px
+    font-size: 2.1875rem;
   }
 
   main li {
-    font-size: 35px;
+    font-size: 2.1875rem;
   }
 
   main i {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
 
   .item-des {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
 
    .hours-list {
-     font-size: 60px;
+     font-size: 3.75rem;
      float: right;
    }
 
    .event-text {
-     font-size: 60px;
+     font-size: 3.75rem;
      top: 11.2em;
    }
 
    .contact-info {
-     font-size: 50px;
+     font-size: 3.125rem;
    }
 
    .footer {
-     font-size: 30px;
+     font-size: 1.875rem;
    }
 }
