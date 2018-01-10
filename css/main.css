@@ -183,29 +183,29 @@ h3 {
 
   html {
     font-size: 100%;
-    }
+  }
 
-nav li {
-  margin: 0;
-  padding: .5rem 1rem;
-}
- 
-.item-des {
-  max-width: 50%;
-}
+  nav li {
+    margin: 0;
+    padding: .5rem 1rem;
+  }
 
-.event-text {
-  top: 11.3em;
-}
+  .item-des {
+    max-width: 50%;
+  }
+
+  .event-text {
+    top: 11.3em;
+  }
 
 }
 
 @media only screen and (min-width: 38em) {
 
   html {
-   font-size: 110%;
-   line-height: 1.4;
- }
+    font-size: 110%;
+    line-height: 1.4;
+  }
 
   nav li {
     margin: .3em;
@@ -232,71 +232,71 @@ nav li {
 @media only screen and (min-width: 60em) {
 
   html {
-   font-size: 120%;
-   line-height: 1.5;
- }
+    font-size: 120%;
+    line-height: 1.5;
+  }
 
-   header h1 {
-     font-size: 3.125rem;
-   }
+  header h1 {
+    font-size: 3.125rem;
+  }
 
-   header img {
-     width: 5rem;
-   }
+  header img {
+    width: 5rem;
+  }
 
-   figure i {
-     font-size: 2.5rem;
-   }
+  figure i {
+    font-size: 2.5rem;
+  }
 
-   h2 {
-     font-size: 2.25rem;
-   }
+  h2 {
+    font-size: 2.25rem;
+  }
 
-   h3 {
-     font-size: 1.875rem;
-   }
+  h3 {
+    font-size: 1.875rem;
+  }
 
-   nav li {
-     font-size: 1.5625rem;
-   }
+  nav li {
+    font-size: 1.5625rem;
+  }
 
-   main li {
-     font-size: 1.5625rem;
-   }
+  main li {
+    font-size: 1.5625rem;
+  }
 
-   main i {
-     font-size: 1.375rem;
-   }
+  main i {
+    font-size: 1.375rem;
+  }
 
-   .item-des {
-     font-size: 1.375rem;
-   }
+  .item-des {
+    font-size: 1.375rem;
+  }
 
-    .hours-list {
-      font-size: 2.5rem;
-      float: right;
-    }
+  .hours-list {
+    font-size: 2.5rem;
+    float: right;
+  }
 
-    .event-text {
-      font-size: 2.5rem;
-      top: 11.1em;
-    }
+  .event-text {
+    font-size: 2.5rem;
+    top: 11.1em;
+  }
 
-    .contact-info {
-      font-size: 2.1875rem;
-    }
+  .contact-info {
+    font-size: 2.1875rem;
+  }
 
-    .footer {
-      font-size: 1.25rem;
-    }
+  .footer {
+    font-size: 1.25rem;
+  }
 
 }
 
 @media only screen and (min-width: 90em) {
 
   html {
-     font-size: 130%;
-   }
+    font-size: 130%;
+  }
 
   header h1 {
     font-size: 4.375rem;
