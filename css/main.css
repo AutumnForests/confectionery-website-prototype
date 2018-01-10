@@ -334,21 +334,21 @@ h3 {
     font-size: 1.75rem;
   }
 
-   .hours-list {
-     font-size: 3.75rem;
-     float: right;
-   }
+  .hours-list {
+    font-size: 3.75rem;
+    float: right;
+  }
 
-   .event-text {
-     font-size: 3.75rem;
-     top: 11.2em;
-   }
+  .event-text {
+    font-size: 3.75rem;
+    top: 11.2em;
+  }
 
-   .contact-info {
+  .contact-info {
      font-size: 3.125rem;
-   }
+  }
 
-   .footer {
-     font-size: 1.875rem;
-   }
+  .footer {
+    font-size: 1.875rem;
+  }
 }
