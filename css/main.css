@@ -89,11 +89,13 @@ nav li:hover {
   width: 30%;
   float: right;
   margin: 0;
+  padding: .5em;
 }
 
 h2 {
   font-family: "Berkshire Swash", cursive;
   background-color: #9e6738;
+  display:
 }
 
 h3 {
@@ -101,6 +103,11 @@ h3 {
   text-align: center;
   background-color: #c68044;
   clear: both;
+}
+
+.item-des {
+  font-family: "Varela Round", sans-serif;
+  font-size: 10pt;
 }
 
 .hours {
@@ -116,6 +123,7 @@ h3 {
 
 .hours-list {
   padding: 0;
+  list-style: none;
 }
 
 .events {
@@ -167,18 +175,161 @@ h3 {
   display: inline-block;
 }
 
+.footer {
+  width: 100%;
+  text-align: center;
+}
+
 @media only screen and (min-width: 25em) {
 
+nav li {
+  margin: 0;
+  padding: .5rem 1rem;
+}
+
+.item-des {
+  max-width: 50%;
+}
+
+.event-text {
+  top: 11.3em;
 }
 
 @media only screen and (min-width: 38em) {
+
+  nav li {
+    margin: .3em;
+    padding: .2rem 1rem;
+  }
+
+  .event-text {
+    font-size: 25px;
+    top: 11.1em;
+  }
+
+  .contact-info {
+    font-size: 23px;
+  }
+
+  .hours-list{
+    font-size: 25px;
+    margin: 40px;
+    float: right;
+  }
 
 }
 
 @media only screen and (min-width: 60em) {
 
+   header h1 {
+     font-size: 50px;
+   }
+
+   header img {
+     width: 80px;
+   }
+
+   figure i {
+     font-size: 40px;
+   }
+
+   h2 {
+     font-size: 36px
+   }
+
+   h3 {
+     font-size: 30px;
+   }
+
+   nav li {
+     font-size: 25px
+   }
+
+   main li {
+     font-size: 25px;
+   }
+
+   main i {
+     font-size: 22px;
+   }
+
+   .item-des {
+     font-size: 22px;
+   }
+
+    .hours-list {
+      font-size: 40px;
+      float: right;
+    }
+
+    .event-text {
+      font-size: 40px;
+      top: 11.1em;
+    }
+
+    .contact-info {
+      font-size: 35px;
+    }
+
+    .footer {
+      font-size: 20px;
+    }
+
 }
 
 @media only screen and (min-width: 90em) {
 
+  header h1 {
+    font-size: 70px;
+  }
+
+  header img {
+    width: 100px;
+  }
+
+  .banner-i {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 50px
+  }
+
+  h3 {
+    font-size: 40px;
+  }
+
+  nav li {
+    font-size: 35px
+  }
+
+  main li {
+    font-size: 35px;
+  }
+
+  main i {
+    font-size: 28px;
+  }
+
+  .item-des {
+    font-size: 28px;
+  }
+
+   .hours-list {
+     font-size: 60px;
+     float: right;
+   }
+
+   .event-text {
+     font-size: 60px;
+     top: 11.2em;
+   }
+
+   .contact-info {
+     font-size: 50px;
+   }
+
+   .footer {
+     font-size: 30px;
+   }
 }
