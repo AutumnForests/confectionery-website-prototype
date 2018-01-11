@@ -350,5 +350,6 @@ h3 {
 
   .footer {
     font-size: 1.875rem;
+    max-width: 100%;
   }
 }
